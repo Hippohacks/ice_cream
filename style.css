@@ -1,0 +1,43 @@
+body {
+    background-color: #fef3f3;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    color: #d94f70;
+    margin-top: 50px
+}
+
+h2 {
+    color: #444;
+    width: 80%;
+    margin: auto;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.favorite {
+    margin-top: 40px;
+    font-size: 20px;
+    color: #555;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #ffe6ec;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
